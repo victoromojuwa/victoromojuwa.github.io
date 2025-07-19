@@ -1,0 +1,26 @@
+{
+  "name": "fraud-detection-app",
+  "version": "1.0.0",
+  "description": "AI-powered fraud detection and fund recovery app by FundGuard Africa.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "publish": "npm run build && npm run preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
+✅ Paste this into a new package.json file in your project root folder.
+Then run:
+
+bash
+Copy
+Edit
+npm install
+npm run publish
