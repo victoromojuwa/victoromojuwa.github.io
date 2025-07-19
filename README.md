@@ -102,7 +102,6 @@ Edit
 
 ---
 
-Let me know if you'd like this in a specific theme or to include badges (like build status, GitHub stars, etc.) for your public GitHub repo.
 
 
 
@@ -110,5 +109,6 @@ Let me know if you'd like this in a specific theme or to include badges (like bu
 
 
 
-Ask ChatGPT
+
+
 
