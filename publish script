@@ -1,0 +1,40 @@
+🛠️ How to Add publish Script
+Open your package.json file and in the "scripts" section, add this line:
+
+json
+Copy
+Edit
+"publish": "npm run build && npm run preview"
+✅ Example scripts section after update:
+json
+Copy
+Edit
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "publish": "npm run build && npm run preview"
+}
+🚀 To use it:
+In your terminal, run:
+
+bash
+Copy
+Edit
+npm run publish
+It will:
+
+Run vite build to generate your /dist
+
+Run vite preview to serve the build locally for testing before deploying
+
+
+
+
+
+
+
+
+
+
+
