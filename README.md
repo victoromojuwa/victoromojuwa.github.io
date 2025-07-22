@@ -99,6 +99,23 @@ MIT License. See LICENSE file for details.
 yaml
 Copy
 Edit
+```json
+"homepage": "https://www.fundguardafrica.com"
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "publish": "npm run build && npm run preview"
+}
+git add .
+git commit -m "Initial deploy"
+git push
+
+---
+
+✅ You can now paste this directly:
+- Into a `README.md` on GitHub
+- Or into VS Code or Notepad for editing
 
 ---
 
