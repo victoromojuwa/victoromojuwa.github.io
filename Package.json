@@ -1,5 +1,5 @@
 {
-  "name": "fraud-detection-app",
+  "name": "fundguard-app",
   "version": "1.0.0",
   "description": "AI-powered fraud detection and fund recovery app by FundGuard Africa.",
   "scripts": {
