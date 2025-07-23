@@ -1,5 +1,5 @@
 # victoromojuwa.github.io
-# 🚨 FundGuard Africa – Fraud Detection App
+# 🚨 FundGuard Africa – FundGuard App
 
 FundGuard Africa is an AI-powered fintech platform that detects and prevents financial fraud in real-time. Built for both traditional banking systems and cryptocurrency wallets, this app helps users track, report, and recover stolen funds using intelligent monitoring tools.
 
